@@ -1,3 +1,4 @@
+package HW1;
 public class HW2020_1_1 {
     public static void main (String[] args) {
         double BMI;

@@ -1,3 +1,4 @@
+package HW1;
 public class HW2020_1_3 {
     public static void main (String[] args) {
         String str1 = "I hate you.";
