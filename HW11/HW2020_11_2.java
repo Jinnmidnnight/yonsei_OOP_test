@@ -1,4 +1,4 @@
-package HARD;
+package HW11;
 public class HW2020_11_2 {
 
 	public static void main(String[] args) {

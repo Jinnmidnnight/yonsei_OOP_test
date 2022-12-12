@@ -1,4 +1,4 @@
-package HARD;
+package HW11;
 import java.util.Scanner;
 
 public class HW2020_11_1 {

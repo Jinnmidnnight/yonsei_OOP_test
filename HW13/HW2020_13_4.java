@@ -1,4 +1,4 @@
-package HARD;
+package HW13;
 public class HW2020_13_4 {
 	public static void main(String[] args) {
 		Outer o = new Outer();

@@ -1,5 +1,5 @@
-package HARD;
-public class Main {
+package HW13;
+public class HW2020_13_3 {
 	public static void main(String[] args) {
 	
         Product133 p1 = new Product133(100) {
